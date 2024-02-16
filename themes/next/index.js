@@ -33,9 +33,6 @@ const ThemeGlobalNext = createContext()
 export const useNextGlobal = () => useContext(ThemeGlobalNext)
 
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2005133654084983"
-     crossorigin="anonymous"></script>
-
 
 /**
  * 基础布局 采用左中右三栏布局，移动端使用顶部导航栏
